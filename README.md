@@ -1,2 +1,0 @@
-# CMPM163Labs
-Spring 2020 CMPM 163 @ UCSC
