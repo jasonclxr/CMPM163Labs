@@ -19,17 +19,17 @@ Problem 24 Q/A
 	I get the x value of the pixel to sample from in this 8x8 texture?
 		
 		function convert(u) {
-			return 8*u;
+			return max(floor(8*u - 1), 0);
 		}
 	What is the formula given a v value of the uv coordinate (a value between 0 and 1), 
 	I get the y value of the pixel to sample from in this 8x8 texture?
 		function convert(v) {
-			return 8 * (1 - v);
+			return max(floor(8 * (1 - v) - 1), 0);
 		}
 
 	What color is sampled from the texture at the uv coordinate (0.375, 0.25)? 
 	(sample from the image based on the number your formula gives you i.e. (1, 0) is blue)
-		x = 8*u, x = 8*0.375, x = 3
-		y = 8 * (1 - v), y = 8*(1 - 0.25), y = 8*0.75, y = 6.
+		x = 8*u, x = 8*0.375 - 1, x = 2
+		y = 8 * (1 - v), y = 8*(1 - 0.25), y = 8*0.75 - 1, y = 5.
 		
-		Therefore our coordinate is (3, 6), and the color is white.
+		Therefore our coordinate is (3, 6), and the color is gray.
