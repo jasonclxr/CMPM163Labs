@@ -5,7 +5,7 @@ video: https://drive.google.com/file/d/1QntwBNw9WzzapU_Ndp6ug219ykVqE0S3/view?us
 
 Here's the picture for my inspiration:
 
-![](images/currentstate.PNG)
+![](images/currentstate.png)
 
 I tried to have a centered city in my perlin generated plane. I had it so that the town would generate higher and higher
 from a given vector, and the closer you were the lower the area was which is why you get a blank field of water and grass.
