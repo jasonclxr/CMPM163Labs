@@ -12,4 +12,4 @@ from a given vector, and the closer you were the lower the area was which is why
 I textured everything so that each building would be colored to it's height, and if low enough, just flattened.
 
 I talked to my partner Finnegan and he said that his inspiration was the settlers of CATAN which is a pretty fun game. They 
-didn't teach me anything, but what they had was pretty cool.
+didn't teach me anything, and wasn't finished by the time I submitted, but I do know they did part1 on Unity.
