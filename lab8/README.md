@@ -1,0 +1,15 @@
+# Lab 8
+Spring 2020 CMPM 163 @ UCSC
+
+video: https://drive.google.com/file/d/1QntwBNw9WzzapU_Ndp6ug219ykVqE0S3/view?usp=sharing
+
+Here's the picture for my inspiration:
+
+![](images/currentstate.PNG)
+
+I tried to have a centered city in my perlin generated plane. I had it so that the town would generate higher and higher
+from a given vector, and the closer you were the lower the area was which is why you get a blank field of water and grass.
+I textured everything so that each building would be colored to it's height, and if low enough, just flattened.
+
+I talked to my partner Finnegan and he said that his inspiration was the settlers of CATAN which is a pretty fun game. They 
+didn't teach me anything, but what they had was pretty cool.
