@@ -1,7 +1,7 @@
 # Lab 8
 Spring 2020 CMPM 163 @ UCSC
 
-video: https://drive.google.com/file/d/1QntwBNw9WzzapU_Ndp6ug219ykVqE0S3/view?usp=sharing
+video: https://drive.google.com/file/d/1xKQ5xFMMmTmsCZsiDm_JcU8httgxyM68/view?usp=sharing
 
 Here's the picture for my inspiration:
 
